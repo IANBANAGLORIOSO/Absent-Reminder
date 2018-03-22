@@ -1,0 +1,42 @@
+td,th {
+	font-family: monospace;
+	padding: 30px;
+	background-color: #ccc;
+        
+}
+
+label {
+	vertical-align: top;
+}
+
+#PlayArea {
+        border: 1px dotted blue;
+	padding: 1.5em;
+ 
+        margin: auto;
+  
+	max-width: 30em;
+	background-color: #ccc;
+	margin-right: 35%;	
+	
+}
+
+#items_table {
+	border: 1px dotted blue;
+	padding: 1.5em;
+ 
+        margin: auto;
+  
+	max-width: 30em;
+	margin-top: 15px;
+	margin-right: 35%;
+}
+
+#items_table h2 {
+	border: 1px dotted blue;
+	padding: 30px;
+	margin-top: 40px;
+	margin-right: 50%;
+}
+
+	
